@@ -1,2 +1,4 @@
 # OpenCV_Mult_Display
-Display Multiple Images In One OpenCV Window
+Genrate One Image from Many Images;
+or we may say 
+Display Multiple Images In One Window
